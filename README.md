@@ -20,6 +20,7 @@ In questo caso l'obiettivo è di far passare più formiche lavoratrici possibili
 - Uso di feromoni e mappa olfattiva per navigazione e ritorno.
 
 ## ▶️ Esecuzione
+Il progetto è stato svolto in linguaggio C, poi successivamente convertito e ampliato in Python per poter aggiungere una finestra GUI.
 
 ```bash
 python ant_bridge.py
